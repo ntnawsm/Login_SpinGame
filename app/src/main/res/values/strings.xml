@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Bacck To Login</string>
+    <string name="username">Username</string>
+    <string name="Rotate">Ghumao</string>
+    <string name="logout">Log Out</string>
+</resources>
